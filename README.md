@@ -20,7 +20,16 @@ EDR/XDR Tools:
 
 Pentest study notes, tools, scripts, techniques, tricks, and cheat sheets
   https://github.com/wwong99/pentest-notes
+  
+Pentesting
 
+https://academy.tcm-sec.com/p/learn-penetration-testing-free
+
+https://itmasters.edu.au/free-short-course-pen-testing/
+
+https://www.securityblue.team/training#intro-courses
+
+https://arcx.io/courses/cyber-threat-intelligence-101
 
   <h3>How about having some cyber fun?</h3>
 
