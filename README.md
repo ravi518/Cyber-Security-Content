@@ -31,6 +31,9 @@ https://www.securityblue.team/training#intro-courses
 
 https://arcx.io/courses/cyber-threat-intelligence-101
 
+<h3> Python </h3>
+https://repository.root-me.org/Programmation/Python/?_gl=1*1pxdmkz*_ga*OTY4MDE5NjkuMTY3OTA3NDc3OA..*_ga_SRYSKX09J7*MTY5MjUxMTkxMy43LjEuMTY5MjUxMjYzMC4wLjAuMA..
+
   <h3>How about having some cyber fun?</h3>
 
 👉 𝗠𝗼𝘃𝗶𝗲𝘀
