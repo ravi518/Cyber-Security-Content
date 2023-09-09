@@ -41,6 +41,11 @@ https://overthewire.org/wargames/bandit/
 
   <h3>How about having some cyber fun?</h3>
 
+<h3>Blogs</h3>
+
+https://cqr.company/web-vulnerabilities/authentication-bypass/
+
+
 👉 𝗠𝗼𝘃𝗶𝗲𝘀
 
 🌟 A list of movies on Movies for Hackers by hackermovie club
